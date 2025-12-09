@@ -1,4 +1,5 @@
 <div align=center> 
+<img title="a title" alt="Alt text" src="GitGam.png" height="350" /></div>
 
 <h1 align=center> GitGam - A game hub made using Native. </h1>
 
